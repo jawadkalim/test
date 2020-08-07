@@ -1,5 +1,6 @@
 test1
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -11,5 +12,7 @@ test 2
 
 
 AQsa
+=======
+>>>>>>> parent of 013e36f... Update yooo.txt
 =======
 >>>>>>> parent of 013e36f... Update yooo.txt
